@@ -19,7 +19,7 @@
 
 <i>Click below button. ASAP</i>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/PercyOfficial/TGForward.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PercyOfficial/TGForward.git)
 
 ## Custom captions to files
 
